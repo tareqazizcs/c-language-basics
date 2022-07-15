@@ -23,3 +23,14 @@ to output the value of an int variable, you must use the format specifier %d or 
 
 int myNum = 15;
 printf("%d", myNum);  // Outputs 15
+
+/* 
+Variable Rules
+
+1. Variables are case sensitive 
+2. 1st character is alphabetic or '_'
+3. No commma or blank space is allowed
+4. No other symbols other than '_' 
+
+
+ */
