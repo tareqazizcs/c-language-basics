@@ -10,6 +10,8 @@ int main(){
 
 /* To print a character we need to use format specifier '%c' */
 
+/* a char variable can only store 1 character */
+
 #include <stdio.h>
 int main(){
     char firstChar = 't';
