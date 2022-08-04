@@ -43,3 +43,15 @@ int main(){
     int a = pow(2,3);
     return 0;
 }
+
+// *Control Instructions
+/* 
+Determines the flow of control in C program.
+There are 4 types of control instructions in C program: 
+1. Sequence control instruction
+2. Decision control instruction (if/else decisions)
+3. Loop  control instruction (related to loops)
+4. Case control instruction (related to switch/case)
+*/
+
+/* 
