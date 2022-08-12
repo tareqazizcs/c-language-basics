@@ -23,3 +23,18 @@ int main() {
   }
   return 0;
 } // Outpur - a is not equal to 4.
+
+/* When condition is more than one, else if is used after if block. */
+
+int main() {
+  int a = 10;
+  if(a > 10){
+    printf("a is more than 10"); 
+  } else if (a < 10){
+    printf("a is less than 10"); // else block is not necessary
+  } else {
+    printf("a is 10");
+  }
+  return 0;
+} // Outpur - a is 10.
+
