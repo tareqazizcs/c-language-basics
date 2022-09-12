@@ -17,3 +17,19 @@ int main(){
         break;
     }
 }
+/* the "break" statement is necessary, otherwise once it meets the condition then it will print everything below that */
+
+int main(){
+    int age = 35;
+    switch(age)
+    {
+    case 31:
+        printf("The age is 31");
+        break;
+    case 32:
+        printf("The age is 32");
+    default: 
+        printf("The age is not specified"); // Here this line will be executed as conditions dont match.            
+        break;
+    }
+}
