@@ -33,3 +33,4 @@ int main(){
         break;
     }
 }
+/* switch-case statement is better when we need to write if-else statements a lot of times */
