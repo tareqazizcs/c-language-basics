@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main() {
     int x = 2, y = 3, z = 3, k = 1;
     // Question: 3x/y-z+k
@@ -14,5 +12,3 @@ We know (* and /) these operators have the highest precedence, so it first calcu
 Then it calculates the + and - 
 .
 */
-
-
